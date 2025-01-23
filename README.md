@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in HTML and JavaScript interaction.  The bug arises from hiding an element using JavaScript, but failing to provide a mechanism for restoring its visibility. The solution clarifies how to properly manage element visibility for a better user experience.
